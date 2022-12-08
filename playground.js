@@ -11,12 +11,15 @@ counter.addEventListener("click", () => {
 
 save.addEventListener("click", () => {
     localStorage.setItem("count", count);
+<<<<<<< Updated upstream
     windows.alert("Saved");
+=======
+>>>>>>> Stashed changes
 })
 
 load.addEventListener("click", () => {
-    count = localStorage.getItem("count") - 1;
+    count = localStorage.getItem("count");
     count = parseInt(count);
-    document.getElementById("result") = count;
+    result.innerHTML = count;
 })
 
