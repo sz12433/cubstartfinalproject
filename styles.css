@@ -44,7 +44,13 @@
     text-align: center;
     color: #072f7d;
    }
-      
+    
+ #save {
+    background-color: #d0fac5;
+  }
+  
+ #load {
+    background-color: #d8d1eb;
+  }
 
-
-   }
+}
