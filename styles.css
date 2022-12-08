@@ -10,9 +10,8 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto
-   background-color:transparent;
-backface-visibility:visible;    
-
+    background-color: transparent;
+    backface-visibility: visible;    
    }
 
    #counter:hover {
