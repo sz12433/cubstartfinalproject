@@ -17,4 +17,10 @@ load.addEventListener("click", () => {
     count = localStorage.getItem("count") - 1;
     count = parseInt(count);
     document.getElementById("result") = count;
+    
+ function update() {
+     document.getElementbyID("result") = "Number of Oskis Clicked: " +result;
+ }
+        
+    
 })
