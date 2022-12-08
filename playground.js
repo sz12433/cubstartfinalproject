@@ -16,6 +16,5 @@ save.addEventListener("click", () => {
 load.addEventListener("click", () => {
     count = localStorage.getItem("count");
     count = parseInt(count);
-    document.getElementById("text").value = count;
-}
-)
+    document.getElementById("result") = count;
+})

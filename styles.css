@@ -1,9 +1,9 @@
 
 
-<style>
   body, html {
   height: 100%;
   margin: 0;
+  font-family:'Lato';
 }
 
    body {
@@ -29,7 +29,6 @@
     border-top-right-radius: 80px;
     border-bottom-right-radius: 170px;
     border-bottom-left-radius: 170px;
-    border: 
    }
 
    section {
@@ -45,7 +44,3 @@
     text-align: center;
     color: #072f7d;
    }
-
-
-</style>
-
