@@ -1,3 +1,12 @@
+html,
+body {
+  border-radius: 88px;
+  background: #5896d0;
+  box-shadow:  23px 23px 53px #4575a2,
+             -23px -23px 53px #6bb7fe;
+}
+
+
 <style>
   #counter {
     transition-duration: 0.4s;
@@ -19,12 +28,5 @@
     p {
     text-align: center;
     }\
-
-body {
-  border-radius: 88px;
-  background: #5896d0;
-  box-shadow:  23px 23px 53px #4575a2,
-             -23px -23px 53px #6bb7fe;
-}
 </style>
 
