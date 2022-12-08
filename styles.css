@@ -3,8 +3,12 @@
 <style>
   
    body {
+    background: url("https://cdn.discordapp.com/attachments/335738804755365888/1050346129667141642/image.png");
     border: none;
-    background-color: #dcdcd8;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
   }
 
    #counter {
