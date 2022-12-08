@@ -21,8 +21,9 @@
     text-align: center;
     }
 
-    section {
+    body {
     border: none;
+    background-color: #efefef;
 }
 
 
