@@ -6,11 +6,12 @@ let count = 0;
 
 counter.addEventListener("click", () => {
     count += 1;
-    result.innerHTML = count
+    result.innerHTML = count;
 })
 
 save.addEventListener("click", () => {
-    localStorage.setItem("count", count)
+    localStorage.setItem("count", count);
+    windows.alert("Saved :D");
 })
 
 load.addEventListener("click", () => {
