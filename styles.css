@@ -1,17 +1,36 @@
 
 
 <style>
-  #counter {
+  body, html {
+  height: 100%;
+  margin: 0;
+}
+
+   body {
+    background-color: #f0f0f0;
+    border: none;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+  }
+
+   #counter {
     transition-duration: 0.4s;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border: none;
    }
 
    #counter:hover {
     background-color: #ffef42;
-    color: rgb(131, 162, 255);  
-    }
+    color: rgb(131, 162, 255); 
+    border-top-left-radius: 80px;
+    border-top-right-radius: 80px;
+    border-bottom-right-radius: 180px;
+    border-bottom-left-radius: 180px;
+   }
 
    section {
     text-align: center;
@@ -19,12 +38,7 @@
 
     p {
     text-align: center;
-    }
-
-    body { background-color: #76ace3;
-    }
-
-
+   }
 
 
 </style>
