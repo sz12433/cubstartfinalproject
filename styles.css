@@ -1,16 +1,18 @@
-
-
+html, 
+h1 { background-color: #00;
+    color: rgb(131, 162, 255);  
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 70px;
+    border-bottom-left-radius: 70px;
+}
 
 <style>
   #counter {
     transition-duration: 0.4s;
     display: block;
     margin-left: auto;
-    margin-right: auto:
-    border-top-left-radius: 40px;
-    border-top-right-radius: 40px;
-    border-bottom-right-radius: 70px;
-    border-bottom-left-radius: 70px;
+    margin-right: auto;
    }
 
    #counter:hover {
