@@ -1,11 +1,4 @@
-html, 
-h1 { background-color: #00;
-    color: rgb(131, 162, 255);  
-    border-top-left-radius: 40px;
-    border-top-right-radius: 40px;
-    border-bottom-right-radius: 70px;
-    border-bottom-left-radius: 70px;
-}
+
 
 <style>
   #counter {
@@ -30,6 +23,18 @@ h1 { background-color: #00;
 
     p {
     text-align: center;
-    }\
+    }
+
+    h1 { background-color: #00;
+    color: rgb(131, 162, 255);  
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 70px;
+    border-bottom-left-radius: 70px;
+    }
+
+
+
+
 </style>
 
