@@ -44,12 +44,12 @@
     text-align: center;
     color: #072f7d;
       
-   #save:hover {
+   #save {
     background-color: #faec6e;
     color: rgb(131, 162, 255); 
     border-radius: 5px;
      
-   #load:hover {
+   #load {
     background-color: #faec6e;
     color: rgb(131, 162, 255); 
     border-radius: 5px;
