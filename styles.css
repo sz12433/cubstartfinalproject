@@ -45,25 +45,6 @@
     color: #072f7d;
    }
       
-   #save {
-    background-color: #f0f0f0;
-    border-radius: 5px;
-  }
-
-#save:hover {
-    background-color: #d4fcac;
-    border-radius: 5px;
-   }
-
-   #load {
-    background-color: #f0f0f0;
-    border-radius: 5px;
-  } 
-     
-#load:hover {
-    background-color: #b8acfc;
-    border-radius: 5px;
-   }
 
 
    }
