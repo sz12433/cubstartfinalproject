@@ -11,10 +11,7 @@ counter.addEventListener("click", () => {
 
 save.addEventListener("click", () => {
     localStorage.setItem("count", count);
-<<<<<<< Updated upstream
     windows.alert("Saved");
-=======
->>>>>>> Stashed changes
 })
 
 load.addEventListener("click", () => {
