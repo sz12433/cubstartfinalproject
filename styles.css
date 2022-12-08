@@ -16,7 +16,6 @@
   }
 
    #counter {
-    
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -33,8 +32,8 @@
     border: 
    }
 
-   section {
-    text-align: center;
+   h1 {
+    text-align: left;
    }
 
     p {
