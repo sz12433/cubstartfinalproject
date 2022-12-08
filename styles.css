@@ -1,7 +1,13 @@
 
 
 <style>
-  #counter {
+  
+   body {
+    border: none;
+    background-color: #efefef;
+  }
+
+   #counter {
     transition-duration: 0.4s;
     display: block;
     margin-left: auto;
@@ -11,7 +17,7 @@
    #counter:hover {
     background-color: #ffef42;
     color: rgb(131, 162, 255);  
-    }
+   }
 
    section {
     text-align: center;
@@ -19,12 +25,7 @@
 
     p {
     text-align: center;
-    }
-
-    section {
-    border: none;
-    background-color: #efefef;
-}
+   }
 
 
 </style>
