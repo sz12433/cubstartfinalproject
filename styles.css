@@ -19,11 +19,12 @@
     p {
     text-align: center;
     }\
- 
-border-radius: 88px;
-background: #5896d0;
-box-shadow:  23px 23px 53px #4575a2,
-             -23px -23px 53px #6bb7fe;
 
+body {
+  border-radius: 88px;
+  background: #5896d0;
+  box-shadow:  23px 23px 53px #4575a2,
+             -23px -23px 53px #6bb7fe;
+}
 </style>
 
