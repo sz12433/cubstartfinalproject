@@ -13,10 +13,6 @@ save.addEventListener("click", () => {
     localStorage.setItem("count", count)
 })
 
-function showResult() {
-        $("count").update(count);
-})
-
 load.addEventListener("click", () => {
     count = localStorage.getItem("count") - 1;
     count = parseInt(count);
