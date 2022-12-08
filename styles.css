@@ -43,6 +43,7 @@
     p {
     text-align: center;
     color: #072f7d;
+   }
       
    #save {
     display: block;
@@ -52,7 +53,9 @@
     background-color: #faec6e;
     color: rgb(131, 162, 255); 
     border-radius: 5px;
-     
+  }
+
+
    #load {
     display: block;
     margin-left: auto;
@@ -61,6 +64,6 @@
     background-color: #faec6e;
     color: rgb(131, 162, 255); 
     border-radius: 5px;
-      
+  } 
       
    }
