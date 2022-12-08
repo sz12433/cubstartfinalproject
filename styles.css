@@ -51,11 +51,22 @@
     border-radius: 5px;
   }
 
+#save:hover {
+    background-color: #faec6e;
+    color: rgb(131, 162, 255); 
+   }
 
    #load {
     background-color: #faec6e;
     color: rgb(131, 162, 255); 
     border-radius: 5px;
   } 
-      
+     
+#load:hover {
+    background-color: #faec6e;
+    color: rgb(131, 162, 255); 
+    border-top-left-radius: 80px;
+   }
+
+
    }
